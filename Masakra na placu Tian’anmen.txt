@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<h1><b><MARQUEE BEHAVIOR=ALTERNATE> Masakra na placu Tian’anmen </MARQUEE></b></h1>
+	<meta charset="utf-8">
+	<title> Masakra na placu Tian’anmen </title>
+</head>
+
+<body>
+	<p style="font-size: 28px">
+	<a href="https://pl.wikipedia.org/wiki/Protesty_na_placu_Niebia%C5%84skiego_Spokoju_w_1989">Protesty na placu Niebiańskiego Spokoju<a>, w chińskiej literaturze oficjalnej i rządowej określane jako zawirowania polityczne między wiosną a latem 1989 roku. Seria protestów, trwających od 15 kwietnia do 4 czerwca 1989 roku na
+	placu Niebiańskiego Spokoju w centralnej części Pekinu, których głównymi uczestnikami byli studenci. Zakończone stłumieniem przez wojsko i masakrą ludności cywilnej. Początkowo zgromadzenia studentów  placu Tian’anmen były niewielkie i spontaniczne oraz miały apolityczny charakter.
+	</p>
+
+	<img src="Plac Tian'anmen 1989 rok.jpg" style="float: right">
+	
+	<p style="font-size: 28px">
+	 Były związane z upamiętnieniem dopiero co zmarłego byłego sekretarza generalnego Komunistycznej Partii Chin 
+	<a href="https://pl.wikipedia.org/wiki/Hu_Yaobang">Hu Yaobanga<a>, uznawanego za zwolennika reform. W krótkim czasie przerodziły się one w zbiorowe manifestacje, do których dołączali kolejni studenci, a także robotnicy i mieszkańcy Pekinu, zaczęto na nich coraz głośniej poruszać 
+	tematy polityczne, ekonomiczne i związane z bieżącymi problemami kraju oraz formułować postulaty do władz. W maju protesty przybrały formę strajku głodowego oraz okupacji placu, dodatkowo zbiegły się one z wizytą <a href="https://pl.wikipedia.org/wiki/Michai%C5%82_Gorbaczow"> Gorbaczowa <a>
+	w Pekinie, a demonstracje zaczęły obejmować kolejne miasta na terenie Chin.
+	</p>
+	
+	
+	
+	
+	
+</body>
+
+</html>
